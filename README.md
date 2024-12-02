@@ -35,3 +35,14 @@ flutter run
 Настройка Spotify API:
 Зарегистрируйте приложение в Spotify Developer Dashboard.
 Получите Client ID и Client Secret, затем добавьте их в настройки проекта.
+
+
+![image](https://github.com/user-attachments/assets/776754a9-d054-448d-9895-628d286059dc)
+
+
+![image](https://github.com/user-attachments/assets/5163cf21-9135-48db-a211-40e3f1eede6b)
+
+![image](https://github.com/user-attachments/assets/349489cf-423a-49a2-b2cf-b5d5db0cf190)
+
+![image](https://github.com/user-attachments/assets/2ce69a0d-afcd-41d7-b2f0-24a36c110ca1)
+
