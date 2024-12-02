@@ -1,16 +1,37 @@
-# Harmonia
+# Harmonia# Spotify Clone (Flutter/Dart)
 
-A new Flutter project.
+Клон Spotify, созданный с использованием Flutter и Dart. Реализует функциональность музыкального стриминга с применением чистой архитектуры и популярных паттернов проектирования, таких как BLoC.
 
-## Getting Started
+## Особенности:
+- **Поиск музыки**: Ищите исполнителей, альбомы, треки.
+- **Воспроизведение музыки**: Управление воспроизведением, перемотка, регулировка громкости.
+- **Плейлисты**: Создавайте и редактируйте свои плейлисты.
+- **Аутентификация через Spotify**: Авторизация через OAuth 2.0.
+- **Интерфейс**: Адаптивный дизайн для различных устройств.
 
-This project is a starting point for a Flutter application.
+## Технологии:
+- **Flutter**: Мобильное приложение для Android и iOS.
+- **Dart**: Язык программирования для разработки.
+- **Чистая архитектура**: Слои: Domain, Data, Presentation.
+- **BLoC**: Управление состоянием через BLoC паттерн.
+- **Spotify Web API**: Для получения данных о музыке.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Установка:
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/yourusername/spotify-clone-flutter.git
+Перейдите в директорию проекта:
+bash
+Копировать код
+cd spotify-clone-flutter
+Установите зависимости:
+bash
+Копировать код
+flutter pub get
+Запустите приложение:
+bash
+Копировать код
+flutter run
+Настройка Spotify API:
+Зарегистрируйте приложение в Spotify Developer Dashboard.
+Получите Client ID и Client Secret, затем добавьте их в настройки проекта.
